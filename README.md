@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi, I am Rajat Srivastava.
 
-<!--
-**RajatLeo/RajatLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently, I’m a Student doing B-Tech from Computer Science.
+- I love to do Competitive Programming.
 
-Here are some ideas to get you started:
+### Language and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- C
+- Machine Learning
+- Basic Neural Network
+- Socket Programming
+- Git
+- GUI designing using PyQt5
+- MySQL
+
+### Currently Learning:
+- C++
+- Dart with Flutter
