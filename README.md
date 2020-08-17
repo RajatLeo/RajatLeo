@@ -13,7 +13,3 @@
 - Git
 - GUI designing using PyQt5
 - MySQL
-
-### Currently Learning:
-- C++
-- Dart with Flutter
